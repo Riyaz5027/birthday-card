@@ -50,3 +50,8 @@ h3 {
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
 }
+.gift-img:hover
+{
+    background-image:url("images/happy.gif");
+    background-size:cover;
+}
