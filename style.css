@@ -75,3 +75,29 @@ h3 {
     background-image: url("images/hot.gif");
     background-size: cover;
 }
+
+
+
+.gift3 {
+    margin-top: 50px;
+}
+
+.gift-img3 {
+    width: 400px;
+    margin: 0 auto;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+}
+
+.gift-img3:hover {
+    background-image: url("images/happy.gif");
+    background-size: cover;
+}
+
+
+
+
+
